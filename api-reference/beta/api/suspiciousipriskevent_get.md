@@ -37,7 +37,7 @@ Here is an example of the request.
   "name": "get_suspiciousipriskevent"
 }-->
 ```http
-GET https://graph.microsoft.com/v1.0/suspiciousIpRiskEvents/02e8bfd1-5231-1006-01cc-434f84e0859e-97b7301f-bc05-8e2c-fdfa-2004eb66ff70-287e7b9b-1d60-aa96-6ddb-65c81ee31475
+GET https://graph.microsoft.com/beta/suspiciousIpRiskEvents/02e8bfd1-5231-1006-01cc-434f84e0859e-97b7301f-bc05-8e2c-fdfa-2004eb66ff70-287e7b9b-1d60-aa96-6ddb-65c81ee31475
 ```
 ##### Response
 Here is an example of the response. Note: The response object shown here may be truncated for brevity. All of the properties will be returned from an actual call.
